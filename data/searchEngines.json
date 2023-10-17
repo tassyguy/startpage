@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Google",
+        "baseURL": "google.com"
+    },
+    {
+      "name": "DuckDuckGo",
+      "baseURL": "duckduckgo.com"
+    }
+]
