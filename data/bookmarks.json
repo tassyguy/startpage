@@ -1,0 +1,30 @@
+[
+  {
+    "siteName": "Google",
+    "icon": "https://example.com/google-icon.png",
+    "url": "https://www.google.com",
+    "description": "The world's most popular search engine",
+    "bookmarkGroup": "Search Engines"
+  },
+  {
+    "siteName": "GitHub",
+    "icon": "https://example.com/github-icon.png",
+    "url": "https://github.com",
+    "description": "A platform for hosting and collaborating on code",
+    "bookmarkGroup": "Development"
+  },
+  {
+    "siteName": "YouTube",
+    "icon": "https://example.com/youtube-icon.png",
+    "url": "https://www.youtube.com",
+    "description": "A video-sharing platform",
+    "bookmarkGroup": "Entertainment"
+  },
+  {
+    "siteName": "YouTube 2",
+    "icon": "https://example.com/youtube-icon.png",
+    "url": "https://www.youtube.com",
+    "description": "A video-sharing platform",
+    "bookmarkGroup": "Entertainment"
+  }
+]
