@@ -110,12 +110,14 @@ a {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
+  max-width: 95%;
+  margin: 0 auto;
 }
 
 .bookmark-group-container {
   width: 22%;
   /* Stretch to fit 25% of the container for larger screens */
-  margin: 10px;
+  margin: 5px;
 }
 
 /* Media Query for smaller screens (e.g., for two groups on a row) */
@@ -125,7 +127,7 @@ a {
   }
 
   .bookmark-group-container {
-    width: 50%;
+    width: 100%;
     /* Stretch to fit 50% of the container for smaller screens */
   }
 }

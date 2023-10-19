@@ -4,7 +4,6 @@ import bookmarksData from '../../data/bookmarks.json'; // Import the bookmarks J
 
 const Bookmarks: React.FC = () => (
   <div className="bookmarks">
-    <h1>My Bookmarks</h1>
     <BookmarkContainer bookmarkData={bookmarksData} />
   </div>
 );

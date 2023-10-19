@@ -49,17 +49,80 @@
     "bookmarkGroup": "Development"
   },
   {
-    "siteName": "MDN",
+    "siteName": "MDN 1",
     "icon": "./Mozilla.svg",
     "url": "https://github.com",
     "description": "Mozilla Docs",
     "bookmarkGroup": "Work"
   },
   {
+    "siteName": "MDN 2",
+    "icon": "./Mozilla.svg",
+    "url": "https://github.com",
+    "description": "Mozilla Docs",
+    "bookmarkGroup": "Work"
+  },
+  {
+    "siteName": "MDN 3",
+    "icon": "./Mozilla.svg",
+    "url": "https://github.com",
+    "description": "Mozilla Docs",
+    "bookmarkGroup": "Work"
+  },
+  {
+    "siteName": "MDN 4",
+    "icon": "./Mozilla.svg",
+    "url": "https://github.com",
+    "description": "Mozilla Docs",
+    "bookmarkGroup": "Work"
+  },
+  {
+    "siteName": "MDN 5",
+    "icon": "./Mozilla.svg",
+    "url": "https://github.com",
+    "description": "Mozilla Docs",
+    "bookmarkGroup": "Work"
+  },
+  {
+    "siteName": "qBittorrent",
+    "icon": "./Mozilla.svg",
+    "url": "https://github.com",
+    "description": "Mozilla Docs",
+    "bookmarkGroup": "Web UI"
+  },
+  {
+    "siteName": "qBittorrent",
+    "icon": "./Mozilla.svg",
+    "url": "https://github.com",
+    "description": "Mozilla Docs",
+    "bookmarkGroup": "Web UI"
+  },
+  {
+    "siteName": "qBittorrent",
+    "icon": "./Mozilla.svg",
+    "url": "https://github.com",
+    "description": "Mozilla Docs",
+    "bookmarkGroup": "Web UI"
+  },
+  {
+    "siteName": "qBittorrent",
+    "icon": "./Mozilla.svg",
+    "url": "https://github.com",
+    "description": "Mozilla Docs",
+    "bookmarkGroup": "Web UI"
+  },
+  {
+    "siteName": "qBittorrent",
+    "icon": "./Mozilla.svg",
+    "url": "https://github.com",
+    "description": "Mozilla Docs",
+    "bookmarkGroup": "Web UI"
+  },
+  {
     "siteName": "YouTube",
     "icon": "./YouTube.svg",
     "url": "https://www.youtube.com",
-    "description": "A video-sharing platform",
+    "description": "Video site",
     "bookmarkGroup": "Entertainment"
   },
   {
@@ -78,6 +141,34 @@
   },
   {
     "siteName": "SteamDB",
+    "icon": "./Steam.svg",
+    "url": "https://www.youtube.com",
+    "description": "Steam info",
+    "bookmarkGroup": "Gaming"
+  }, 
+  {
+    "siteName": "Xbox Cloud",
+    "icon": "./Steam.svg",
+    "url": "https://www.youtube.com",
+    "description": "Stream Xbox games",
+    "bookmarkGroup": "Gaming"
+  },
+  {
+    "siteName": "RetroArch",
+    "icon": "./Steam.svg",
+    "url": "https://www.youtube.com",
+    "description": "Steam info",
+    "bookmarkGroup": "Gaming"
+  },
+  {
+    "siteName": "Game",
+    "icon": "./Steam.svg",
+    "url": "https://www.youtube.com",
+    "description": "Steam info",
+    "bookmarkGroup": "Gaming"
+  },
+  {
+    "siteName": "Game 2",
     "icon": "./Steam.svg",
     "url": "https://www.youtube.com",
     "description": "Steam info",
@@ -105,6 +196,34 @@
     "bookmarkGroup": "Personal"
   },
   {
+    "siteName": "Notion 2",
+    "icon": "./Notion-logo.svg",
+    "url": "https://simonxphillips.notion.site",
+    "description": "Notes",
+    "bookmarkGroup": "Personal"
+  },
+  {
+    "siteName": "Notion 3",
+    "icon": "./Notion-logo.svg",
+    "url": "https://simonxphillips.notion.site",
+    "description": "Notes",
+    "bookmarkGroup": "Personal"
+  },
+  {
+    "siteName": "Notion 4",
+    "icon": "./Notion-logo.svg",
+    "url": "https://simonxphillips.notion.site",
+    "description": "Notes",
+    "bookmarkGroup": "Personal"
+  },
+  {
+    "siteName": "Notion 5",
+    "icon": "./Notion-logo.svg",
+    "url": "https://simonxphillips.notion.site",
+    "description": "Notes",
+    "bookmarkGroup": "Personal"
+  },
+  {
     "siteName": "Spotify",
     "icon": "./Spotify.svg",
     "url": "https://github.com",
@@ -124,5 +243,40 @@
     "url": "https://github.com",
     "description": "localhost",
     "bookmarkGroup": "Development"
+  },
+  {
+    "siteName": "Fun Link",
+    "icon": "./Spotify.svg",
+    "url": "https://github.com",
+    "description": "localhost",
+    "bookmarkGroup": "Fun"
+  },
+  {
+    "siteName": "Fun Link 2",
+    "icon": "./Spotify.svg",
+    "url": "https://github.com",
+    "description": "localhost",
+    "bookmarkGroup": "Fun"
+  },
+  {
+    "siteName": "Fun Link 3",
+    "icon": "./Spotify.svg",
+    "url": "https://github.com",
+    "description": "localhost",
+    "bookmarkGroup": "Fun"
+  },
+  {
+    "siteName": "Fun Link 4",
+    "icon": "./Spotify.svg",
+    "url": "https://github.com",
+    "description": "localhost",
+    "bookmarkGroup": "Fun"
+  },
+  {
+    "siteName": "Fun Link 5",
+    "icon": "./Spotify.svg",
+    "url": "https://github.com",
+    "description": "localhost",
+    "bookmarkGroup": "Fun"
   }
 ]
