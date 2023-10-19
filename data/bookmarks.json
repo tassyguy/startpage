@@ -85,34 +85,34 @@
   },
   {
     "siteName": "qBittorrent",
-    "icon": "./Mozilla.svg",
+    "icon": "./qBittorrent.svg",
     "url": "https://github.com",
     "description": "Mozilla Docs",
     "bookmarkGroup": "Web UI"
   },
   {
-    "siteName": "qBittorrent",
-    "icon": "./Mozilla.svg",
+    "siteName": "Kodi",
+    "icon": "./Kodi.svg",
     "url": "https://github.com",
     "description": "Mozilla Docs",
     "bookmarkGroup": "Web UI"
   },
   {
-    "siteName": "qBittorrent",
-    "icon": "./Mozilla.svg",
+    "siteName": "Code Server",
+    "icon": "./VSCode.svg",
+    "url": "https://github.com",
+    "description": "Remote dev",
+    "bookmarkGroup": "Web UI"
+  },
+  {
+    "siteName": "Plex",
+    "icon": "./Plex.svg",
     "url": "https://github.com",
     "description": "Mozilla Docs",
     "bookmarkGroup": "Web UI"
   },
   {
-    "siteName": "qBittorrent",
-    "icon": "./Mozilla.svg",
-    "url": "https://github.com",
-    "description": "Mozilla Docs",
-    "bookmarkGroup": "Web UI"
-  },
-  {
-    "siteName": "qBittorrent",
+    "siteName": "App",
     "icon": "./Mozilla.svg",
     "url": "https://github.com",
     "description": "Mozilla Docs",
