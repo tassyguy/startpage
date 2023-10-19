@@ -10,15 +10,14 @@ import ThemeSwitcher from '@/components/themeSwitcher/themeSwitcher'
 import Weather from '@/components/weather/weather'
 
 export default function Home() {
-  const themes = ['purple', 'pink'];
+  {/*const themes = ['purple', 'pink'];*/}
   return (
     <main>
-      <p>Welcome to Simon land!</p>
       <Time/>
       <SearchBox searchEngines={searchEngines}/>
       <Weather/>
       <Bookmarks/>
-      <ThemeSwitcher themes={themes} />
+     {/* <ThemeSwitcher themes={themes} /> */}
     </main>
   )
 }

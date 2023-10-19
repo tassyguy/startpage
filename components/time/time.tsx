@@ -32,9 +32,8 @@ class Time extends Component<{}, TimeState> {
 
   render() {
     return (
-      <div>
-        <h1>Current Time:</h1>
-        <p>{this.state.currentTime}</p>
+      <div className={'time'}>
+        <h1>{this.state.currentTime}</h1>
       </div>
     );
   }

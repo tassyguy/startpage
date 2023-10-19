@@ -29,7 +29,7 @@
   },
   {
     "siteName": "WhatsApp",
-    "icon": "./whatsapp.svg",
+    "icon": "./WhatsApp.svg",
     "url": "https://www.gmail.com",
     "description": "Message the world",
     "bookmarkGroup": "Messaging"
@@ -57,21 +57,28 @@
   },
   {
     "siteName": "YouTube",
-    "icon": "./Spotify_icon.svg",
+    "icon": "./YouTube.svg",
     "url": "https://www.youtube.com",
     "description": "A video-sharing platform",
     "bookmarkGroup": "Entertainment"
   },
   {
     "siteName": "Hulu",
-    "icon": "./Spotify_icon.svg",
+    "icon": "./Hulu.svg",
+    "url": "https://www.youtube.com",
+    "description": "TV Shows",
+    "bookmarkGroup": "Entertainment"
+  },
+  {
+    "siteName": "Kodi",
+    "icon": "./Kodi.svg",
     "url": "https://www.youtube.com",
     "description": "TV Shows",
     "bookmarkGroup": "Entertainment"
   },
   {
     "siteName": "SteamDB",
-    "icon": "./Spotify_icon.svg",
+    "icon": "./Steam.svg",
     "url": "https://www.youtube.com",
     "description": "Steam info",
     "bookmarkGroup": "Gaming"
@@ -99,21 +106,21 @@
   },
   {
     "siteName": "Spotify",
-    "icon": "./Spotify_icon.svg",
+    "icon": "./Spotify.svg",
     "url": "https://github.com",
     "description": "Music",
     "bookmarkGroup": "Entertainment"
   },
   {
     "siteName": "Netflix",
-    "icon": "./Spotify_icon.svg",
+    "icon": "./Netflix.svg",
     "url": "https://github.com",
     "description": "Endless video",
     "bookmarkGroup": "Entertainment"
   },
   {
     "siteName": "Port 3000",
-    "icon": "./Spotify_icon.svg",
+    "icon": "./Spotify.svg",
     "url": "https://github.com",
     "description": "localhost",
     "bookmarkGroup": "Development"
