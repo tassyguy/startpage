@@ -25,7 +25,9 @@ const BookmarkContainer: React.FC<BookmarkContainerProps> = ({ bookmarkData }) =
   return (
     <div className="bookmark-container">
       {Object.entries(groupedBookmarks).map(([groupName, bookmarks], index) => (
-        <BookmarkGroup key={index} groupName={groupName} bookmarks={bookmarks} />
+        <div key={index} className="bookmark-group-container">
+          <BookmarkGroup groupName={groupName} bookmarks={bookmarks} />
+        </div>
       ))}
     </div>
   );

@@ -7,6 +7,7 @@ import SearchBox from '@/components/search/searchBox'
 import Bookmarks from '@/components/bookmarks/bookmarks'
 import searchEngines from '../data/searchEngines.json'
 import ThemeSwitcher from '@/components/themeSwitcher/themeSwitcher'
+import Weather from '@/components/weather/weather'
 
 export default function Home() {
   const themes = ['purple', 'pink'];
@@ -15,6 +16,7 @@ export default function Home() {
       <p>Welcome to Simon land!</p>
       <Time/>
       <SearchBox searchEngines={searchEngines}/>
+      <Weather/>
       <Bookmarks/>
       <ThemeSwitcher themes={themes} />
     </main>

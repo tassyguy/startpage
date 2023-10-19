@@ -1,30 +1,121 @@
 [
   {
-    "siteName": "Google",
-    "icon": "https://example.com/google-icon.png",
-    "url": "https://www.google.com",
-    "description": "The world's most popular search engine",
-    "bookmarkGroup": "Search Engines"
+    "siteName": "Gmail",
+    "icon": "./Gmail.svg",
+    "url": "https://www.gmail.com",
+    "description": "Email",
+    "bookmarkGroup": "Messaging"
+  },
+  {
+    "siteName": "Messenger",
+    "icon": "./Messenger.svg",
+    "url": "https://www.gmail.com",
+    "description": "Email",
+    "bookmarkGroup": "Messaging"
+  },
+  {
+    "siteName": "Snapchat",
+    "icon": "./Snapchat.svg",
+    "url": "https://web.snapchat.com",
+    "description": "Snap to the chat",
+    "bookmarkGroup": "Messaging"
+  },
+  {
+    "siteName": "Discord",
+    "icon": "./Discord.svg",
+    "url": "https://www.gmail.com",
+    "description": "Gamer chat",
+    "bookmarkGroup": "Messaging"
+  },
+  {
+    "siteName": "WhatsApp",
+    "icon": "./whatsapp.svg",
+    "url": "https://www.gmail.com",
+    "description": "Message the world",
+    "bookmarkGroup": "Messaging"
   },
   {
     "siteName": "GitHub",
-    "icon": "https://example.com/github-icon.png",
+    "icon": "./Github.svg",
     "url": "https://github.com",
-    "description": "A platform for hosting and collaborating on code",
+    "description": "Git repositories",
     "bookmarkGroup": "Development"
   },
   {
+    "siteName": "MDN",
+    "icon": "./Mozilla.svg",
+    "url": "https://github.com",
+    "description": "Mozilla Docs",
+    "bookmarkGroup": "Development"
+  },
+  {
+    "siteName": "MDN",
+    "icon": "./Mozilla.svg",
+    "url": "https://github.com",
+    "description": "Mozilla Docs",
+    "bookmarkGroup": "Work"
+  },
+  {
     "siteName": "YouTube",
-    "icon": "https://example.com/youtube-icon.png",
+    "icon": "./Spotify_icon.svg",
     "url": "https://www.youtube.com",
     "description": "A video-sharing platform",
     "bookmarkGroup": "Entertainment"
   },
   {
-    "siteName": "YouTube 2",
-    "icon": "https://example.com/youtube-icon.png",
+    "siteName": "Hulu",
+    "icon": "./Spotify_icon.svg",
     "url": "https://www.youtube.com",
-    "description": "A video-sharing platform",
+    "description": "TV Shows",
     "bookmarkGroup": "Entertainment"
+  },
+  {
+    "siteName": "SteamDB",
+    "icon": "./Spotify_icon.svg",
+    "url": "https://www.youtube.com",
+    "description": "Steam info",
+    "bookmarkGroup": "Gaming"
+  },
+  {
+    "siteName": "Todoist",
+    "icon": "./Todoist.svg",
+    "url": "https://github.com",
+    "description": "Todos and tasks",
+    "bookmarkGroup": "Development"
+  },
+  {
+    "siteName": "Figma",
+    "icon": "./Figma.svg",
+    "url": "https://github.com",
+    "description": "UX Design",
+    "bookmarkGroup": "Development"
+  },
+  {
+    "siteName": "Notion",
+    "icon": "./Notion-logo.svg",
+    "url": "https://simonxphillips.notion.site",
+    "description": "Notes",
+    "bookmarkGroup": "Personal"
+  },
+  {
+    "siteName": "Spotify",
+    "icon": "./Spotify_icon.svg",
+    "url": "https://github.com",
+    "description": "Music",
+    "bookmarkGroup": "Entertainment"
+  },
+  {
+    "siteName": "Netflix",
+    "icon": "./Spotify_icon.svg",
+    "url": "https://github.com",
+    "description": "Endless video",
+    "bookmarkGroup": "Entertainment"
+  },
+  {
+    "siteName": "Port 3000",
+    "icon": "./Spotify_icon.svg",
+    "url": "https://github.com",
+    "description": "localhost",
+    "bookmarkGroup": "Development"
   }
 ]

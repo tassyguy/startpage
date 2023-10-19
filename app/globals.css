@@ -105,3 +105,154 @@ a {
     color-scheme: dark;
   }
 }
+/*Bookmark Container*/
+.bookmark-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.bookmark-group-container {
+  width: 22%;
+  /* Stretch to fit 25% of the container for larger screens */
+  margin: 10px;
+}
+
+/* Media Query for smaller screens (e.g., for two groups on a row) */
+@media screen and (max-width: 768px) {
+  .bookmark-container {
+    flex-direction: column;
+  }
+
+  .bookmark-group-container {
+    width: 50%;
+    /* Stretch to fit 50% of the container for smaller screens */
+  }
+}
+
+/* Updated CSS for BookmarkGroup */
+.bookmark-group {
+  background-color: #f4f4f4;
+  /* Optional background color for the group */
+  padding: 10px;
+  text-align: center;
+  /* Center the group name */
+  margin-bottom: 10px;
+  /* Add spacing between groups */
+  border-radius: 10px;
+  /* Rounded corners */
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  /* Optional shadow for emphasis */
+}
+
+/* Updated CSS for Bookmark */
+.bookmark {
+  display: flex;
+  align-items: flex-start;
+  padding: 10px;
+  /* Add 10px padding to all content inside a Bookmark */
+}
+
+.bookmark-link {
+  display: flex;
+  text-decoration: none;
+  text-align: left;
+}
+
+.bookmark-icon {
+  width: 48px;
+  height: 48px;
+  margin-right: 10px;
+}
+
+.bookmark-text {
+  display: flex;
+  flex-direction: column;
+}
+
+.site-name {
+  margin: 0;
+}
+
+.description {
+  margin: 0;
+}
+
+/* Search Box */
+/* CSS for SearchBox */
+/* Updated CSS for SearchBox */
+.search-box {
+  background-color: #f4f4f4;
+  /* Optional background color */
+  padding: 10px;
+  text-align: center;
+  /* Center the content */
+  margin: 0 auto;
+  /* Center the search box horizontally */
+  max-width: 80%;
+  /* Set max width to 80% of the parent container */
+  border-radius: 10px;
+  /* Rounded corners */
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.search-box select {
+  margin-right: 10px;
+  padding: 5px;
+}
+
+.search-box input {
+  padding: 5px;
+  flex-grow: 1;
+}
+
+.search-box button {
+  padding: 5px 10px;
+  background-color: #007acc;
+  /* Button background color */
+  color: #fff;
+  /* Button text color */
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* Optional: Add a shadow for emphasis */
+.search-box {
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+/* CSS for PortStatus */
+.port-status {
+  background-color: #f4f4f4;
+  /* Optional background color */
+  padding: 10px;
+  text-align: center;
+  /* Center the content */
+  margin: 0 auto;
+  /* Center the PortStatus horizontally */
+  max-width: 80%;
+  /* Set max width to 80% of the parent container */
+  border-radius: 10px;
+  /* Rounded corners */
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  /* Optional shadow for emphasis */
+}
+
+.port-status h3 {
+  margin: 0;
+}
+
+.port-status ul {
+  list-style: none;
+  padding: 0;
+}
+
+.port-status li {
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin: 5px;
+}
