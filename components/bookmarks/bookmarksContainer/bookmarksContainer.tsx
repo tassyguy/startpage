@@ -11,6 +11,14 @@ interface BookmarkContainerProps {
   }[];
 }
 
+interface BookmarkData {
+  siteName: string;
+  icon: string;
+  url: string;
+  description: string;
+  bookmarkGroup: string;
+}
+
 const BookmarkContainer: React.FC<BookmarkContainerProps> = ({ bookmarkData }) => {
   // Group bookmarks by "bookmarkGroup" field
   const groupedBookmarks: { [key: string]: BookmarkData[] } = {};
