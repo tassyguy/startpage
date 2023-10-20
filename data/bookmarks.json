@@ -1,40 +1,5 @@
 [
   {
-    "siteName": "Gmail",
-    "icon": "./Gmail.svg",
-    "url": "https://www.gmail.com",
-    "description": "Email",
-    "bookmarkGroup": "Messaging"
-  },
-  {
-    "siteName": "Messenger",
-    "icon": "./Messenger.svg",
-    "url": "https://www.gmail.com",
-    "description": "Email",
-    "bookmarkGroup": "Messaging"
-  },
-  {
-    "siteName": "Snapchat",
-    "icon": "./Snapchat.svg",
-    "url": "https://web.snapchat.com",
-    "description": "Snap to the chat",
-    "bookmarkGroup": "Messaging"
-  },
-  {
-    "siteName": "Discord",
-    "icon": "./Discord.svg",
-    "url": "https://www.gmail.com",
-    "description": "Gamer chat",
-    "bookmarkGroup": "Messaging"
-  },
-  {
-    "siteName": "WhatsApp",
-    "icon": "./WhatsApp.svg",
-    "url": "https://www.gmail.com",
-    "description": "Message the world",
-    "bookmarkGroup": "Messaging"
-  },
-  {
     "siteName": "GitHub",
     "icon": "./Github.svg",
     "url": "https://github.com",
@@ -49,132 +14,6 @@
     "bookmarkGroup": "Development"
   },
   {
-    "siteName": "MDN 1",
-    "icon": "./Mozilla.svg",
-    "url": "https://github.com",
-    "description": "Mozilla Docs",
-    "bookmarkGroup": "Work"
-  },
-  {
-    "siteName": "MDN 2",
-    "icon": "./Mozilla.svg",
-    "url": "https://github.com",
-    "description": "Mozilla Docs",
-    "bookmarkGroup": "Work"
-  },
-  {
-    "siteName": "MDN 3",
-    "icon": "./Mozilla.svg",
-    "url": "https://github.com",
-    "description": "Mozilla Docs",
-    "bookmarkGroup": "Work"
-  },
-  {
-    "siteName": "MDN 4",
-    "icon": "./Mozilla.svg",
-    "url": "https://github.com",
-    "description": "Mozilla Docs",
-    "bookmarkGroup": "Work"
-  },
-  {
-    "siteName": "MDN 5",
-    "icon": "./Mozilla.svg",
-    "url": "https://github.com",
-    "description": "Mozilla Docs",
-    "bookmarkGroup": "Work"
-  },
-  {
-    "siteName": "qBittorrent",
-    "icon": "./qBittorrent.svg",
-    "url": "https://github.com",
-    "description": "Mozilla Docs",
-    "bookmarkGroup": "Web UI"
-  },
-  {
-    "siteName": "Kodi",
-    "icon": "./Kodi.svg",
-    "url": "https://github.com",
-    "description": "Mozilla Docs",
-    "bookmarkGroup": "Web UI"
-  },
-  {
-    "siteName": "Code Server",
-    "icon": "./VSCode.svg",
-    "url": "https://github.com",
-    "description": "Remote dev",
-    "bookmarkGroup": "Web UI"
-  },
-  {
-    "siteName": "Plex",
-    "icon": "./Plex.svg",
-    "url": "https://github.com",
-    "description": "Mozilla Docs",
-    "bookmarkGroup": "Web UI"
-  },
-  {
-    "siteName": "App",
-    "icon": "./Mozilla.svg",
-    "url": "https://github.com",
-    "description": "Mozilla Docs",
-    "bookmarkGroup": "Web UI"
-  },
-  {
-    "siteName": "YouTube",
-    "icon": "./YouTube.svg",
-    "url": "https://www.youtube.com",
-    "description": "Video site",
-    "bookmarkGroup": "Entertainment"
-  },
-  {
-    "siteName": "Hulu",
-    "icon": "./Hulu.svg",
-    "url": "https://www.youtube.com",
-    "description": "TV Shows",
-    "bookmarkGroup": "Entertainment"
-  },
-  {
-    "siteName": "Kodi",
-    "icon": "./Kodi.svg",
-    "url": "https://www.youtube.com",
-    "description": "TV Shows",
-    "bookmarkGroup": "Entertainment"
-  },
-  {
-    "siteName": "SteamDB",
-    "icon": "./Steam.svg",
-    "url": "https://www.youtube.com",
-    "description": "Steam info",
-    "bookmarkGroup": "Gaming"
-  }, 
-  {
-    "siteName": "Xbox Cloud",
-    "icon": "./Steam.svg",
-    "url": "https://www.youtube.com",
-    "description": "Stream Xbox games",
-    "bookmarkGroup": "Gaming"
-  },
-  {
-    "siteName": "RetroArch",
-    "icon": "./Steam.svg",
-    "url": "https://www.youtube.com",
-    "description": "Steam info",
-    "bookmarkGroup": "Gaming"
-  },
-  {
-    "siteName": "Game",
-    "icon": "./Steam.svg",
-    "url": "https://www.youtube.com",
-    "description": "Steam info",
-    "bookmarkGroup": "Gaming"
-  },
-  {
-    "siteName": "Game 2",
-    "icon": "./Steam.svg",
-    "url": "https://www.youtube.com",
-    "description": "Steam info",
-    "bookmarkGroup": "Gaming"
-  },
-  {
     "siteName": "Todoist",
     "icon": "./Todoist.svg",
     "url": "https://github.com",
@@ -186,6 +25,13 @@
     "icon": "./Figma.svg",
     "url": "https://github.com",
     "description": "UX Design",
+    "bookmarkGroup": "Development"
+  },
+  {
+    "siteName": "Port 3000",
+    "icon": "./Spotify.svg",
+    "url": "localhost:3000",
+    "description": "React localhost",
     "bookmarkGroup": "Development"
   },
   {
@@ -224,6 +70,168 @@
     "bookmarkGroup": "Personal"
   },
   {
+    "siteName": "qBittorrent",
+    "icon": "./qBittorrent.svg",
+    "url": "localhost:1776",
+    "description": "Torrent client",
+    "bookmarkGroup": "Web UI"
+  },
+  {
+    "siteName": "Kodi",
+    "icon": "./Kodi.svg",
+    "url": "http://localhost:8888/",
+    "description": "Mozilla Docs",
+    "bookmarkGroup": "Web UI"
+  },
+  {
+    "siteName": "Code Server",
+    "icon": "./VSCode.svg",
+    "url": "http://localhost:1999/",
+    "description": "Remote IDE",
+    "bookmarkGroup": "Web UI"
+  },
+  {
+    "siteName": "Plex",
+    "icon": "./Plex.svg",
+    "url": "http://localhost:32400/web",
+    "description": "Media server",
+    "bookmarkGroup": "Web UI"
+  },
+  {
+    "siteName": "App",
+    "icon": "./Mozilla.svg",
+    "url": "https://github.com",
+    "description": "Mozilla Docs",
+    "bookmarkGroup": "Web UI"
+  },
+  {
+    "siteName": "YouTube",
+    "icon": "./YouTube.svg",
+    "url": "https://www.youtube.com",
+    "description": "Video site",
+    "bookmarkGroup": "Entertainment"
+  },
+  {
+    "siteName": "Hulu",
+    "icon": "./Hulu.svg",
+    "url": "https://www.youtube.com",
+    "description": "TV Shows",
+    "bookmarkGroup": "Entertainment"
+  },
+  {
+    "siteName": "Kodi",
+    "icon": "./Kodi.svg",
+    "url": "https://www.youtube.com",
+    "description": "TV Shows",
+    "bookmarkGroup": "Entertainment"
+  },
+  
+  {
+    "siteName": "MDN 1",
+    "icon": "./Mozilla.svg",
+    "url": "https://github.com",
+    "description": "Mozilla Docs",
+    "bookmarkGroup": "Work"
+  },
+  {
+    "siteName": "MDN 2",
+    "icon": "./Mozilla.svg",
+    "url": "https://github.com",
+    "description": "Mozilla Docs",
+    "bookmarkGroup": "Work"
+  },
+  {
+    "siteName": "MDN 3",
+    "icon": "./Mozilla.svg",
+    "url": "https://github.com",
+    "description": "Mozilla Docs",
+    "bookmarkGroup": "Work"
+  },
+  {
+    "siteName": "MDN 4",
+    "icon": "./Mozilla.svg",
+    "url": "https://github.com",
+    "description": "Mozilla Docs",
+    "bookmarkGroup": "Work"
+  },
+  {
+    "siteName": "MDN 5",
+    "icon": "./Mozilla.svg",
+    "url": "https://github.com",
+    "description": "Mozilla Docs",
+    "bookmarkGroup": "Work"
+  },
+  {
+    "siteName": "Gmail",
+    "icon": "./Gmail.svg",
+    "url": "https://www.gmail.com",
+    "description": "Email",
+    "bookmarkGroup": "Messaging"
+  },
+  {
+    "siteName": "Messenger",
+    "icon": "./Messenger.svg",
+    "url": "https://www.gmail.com",
+    "description": "Email",
+    "bookmarkGroup": "Messaging"
+  },
+  {
+    "siteName": "Snapchat",
+    "icon": "./Snapchat.svg",
+    "url": "https://web.snapchat.com",
+    "description": "Snap to the chat",
+    "bookmarkGroup": "Messaging"
+  },
+  {
+    "siteName": "Discord",
+    "icon": "./Discord.svg",
+    "url": "https://www.gmail.com",
+    "description": "Gamer chat",
+    "bookmarkGroup": "Messaging"
+  },
+  {
+    "siteName": "WhatsApp",
+    "icon": "./WhatsApp.svg",
+    "url": "https://www.gmail.com",
+    "description": "Message the world",
+    "bookmarkGroup": "Messaging"
+  },
+  {
+    "siteName": "SteamDB",
+    "icon": "./Steam.svg",
+    "url": "https://www.youtube.com",
+    "description": "Steam info",
+    "bookmarkGroup": "Gaming"
+  }, 
+  {
+    "siteName": "Xbox Cloud",
+    "icon": "./Xbox.svg",
+    "url": "https://www.youtube.com",
+    "description": "Stream Xbox games",
+    "bookmarkGroup": "Gaming"
+  },
+  {
+    "siteName": "RetroArch",
+    "icon": "./Retroarch.svg",
+    "url": "https://www.youtube.com",
+    "description": "Steam info",
+    "bookmarkGroup": "Gaming"
+  },
+  {
+    "siteName": "Game",
+    "icon": "./Steam.svg",
+    "url": "https://www.youtube.com",
+    "description": "Steam info",
+    "bookmarkGroup": "Gaming"
+  },
+  {
+    "siteName": "Game 2",
+    "icon": "./Steam.svg",
+    "url": "https://www.youtube.com",
+    "description": "Steam info",
+    "bookmarkGroup": "Gaming"
+  },
+  {
     "siteName": "Spotify",
     "icon": "./Spotify.svg",
     "url": "https://github.com",
@@ -236,13 +244,6 @@
     "url": "https://github.com",
     "description": "Endless video",
     "bookmarkGroup": "Entertainment"
-  },
-  {
-    "siteName": "Port 3000",
-    "icon": "./Spotify.svg",
-    "url": "https://github.com",
-    "description": "localhost",
-    "bookmarkGroup": "Development"
   },
   {
     "siteName": "Fun Link",
