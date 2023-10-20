@@ -2,34 +2,34 @@
   {
     "siteName": "GitHub",
     "icon": "./Github.svg",
-    "url": "https://github.com",
-    "description": "Git repositories",
+    "url": "https://github.com/tassyguy",
+    "description": "Git Repos",
     "bookmarkGroup": "Development"
   },
   {
     "siteName": "MDN",
     "icon": "./Mozilla.svg",
-    "url": "https://github.com",
+    "url": "https://developer.mozilla.org/",
     "description": "Mozilla Docs",
     "bookmarkGroup": "Development"
   },
   {
-    "siteName": "Todoist",
-    "icon": "./Todoist.svg",
-    "url": "https://github.com",
-    "description": "Todos and tasks",
+    "siteName": "ChatGPT",
+    "icon": "./ChatGPT.svg",
+    "url": "https://chat.openai.com/",
+    "description": "AI Chat",
     "bookmarkGroup": "Development"
   },
   {
     "siteName": "Figma",
     "icon": "./Figma.svg",
-    "url": "https://github.com",
-    "description": "UX Design",
+    "url": "https://www.figma.com/",
+    "description": "UX Design Tool",
     "bookmarkGroup": "Development"
   },
   {
     "siteName": "Port 3000",
-    "icon": "./Spotify.svg",
+    "icon": "./React.svg",
     "url": "localhost:3000",
     "description": "React localhost",
     "bookmarkGroup": "Development"
@@ -42,31 +42,37 @@
     "bookmarkGroup": "Personal"
   },
   {
-    "siteName": "Notion 2",
-    "icon": "./Notion-logo.svg",
-    "url": "https://simonxphillips.notion.site",
-    "description": "Notes",
+    "siteName": "Todoist",
+    "icon": "./Todoist.svg",
+    "url": "https://todoist.com/app/today",
+    "description": "Todos and Tasks",
     "bookmarkGroup": "Personal"
   },
   {
-    "siteName": "Notion 3",
-    "icon": "./Notion-logo.svg",
-    "url": "https://simonxphillips.notion.site",
-    "description": "Notes",
+    "siteName": "Instagram",
+    "icon": "./Instagram.svg",
+    "url": "https://www.instagram.com/",
+    "description": "Photos and Friends",
+    "bookmarkGroup": "Personal"
+  },{
+    "siteName": "Gmail",
+    "icon": "./Gmail.svg",
+    "url": "https://www.gmail.com",
+    "description": "Email",
     "bookmarkGroup": "Personal"
   },
   {
-    "siteName": "Notion 4",
-    "icon": "./Notion-logo.svg",
-    "url": "https://simonxphillips.notion.site",
-    "description": "Notes",
+    "siteName": "Snapchat",
+    "icon": "./Snapchat.svg",
+    "url": "https://web.snapchat.com",
+    "description": "Snap to the chat",
     "bookmarkGroup": "Personal"
   },
   {
-    "siteName": "Notion 5",
-    "icon": "./Notion-logo.svg",
-    "url": "https://simonxphillips.notion.site",
-    "description": "Notes",
+    "siteName": "Messenger",
+    "icon": "./Messenger.svg",
+    "url": "https://www.gmail.com",
+    "description": "Chat",
     "bookmarkGroup": "Personal"
   },
   {
@@ -74,35 +80,42 @@
     "icon": "./qBittorrent.svg",
     "url": "localhost:1776",
     "description": "Torrent client",
-    "bookmarkGroup": "Web UI"
+    "bookmarkGroup": "Apps"
   },
   {
     "siteName": "Kodi",
     "icon": "./Kodi.svg",
     "url": "http://localhost:8888/",
     "description": "Mozilla Docs",
-    "bookmarkGroup": "Web UI"
+    "bookmarkGroup": "Apps"
   },
   {
     "siteName": "Code Server",
     "icon": "./VSCode.svg",
     "url": "http://localhost:1999/",
     "description": "Remote IDE",
-    "bookmarkGroup": "Web UI"
+    "bookmarkGroup": "Apps"
   },
   {
     "siteName": "Plex",
     "icon": "./Plex.svg",
     "url": "http://localhost:32400/web",
     "description": "Media server",
-    "bookmarkGroup": "Web UI"
+    "bookmarkGroup": "Apps"
   },
   {
-    "siteName": "App",
-    "icon": "./Mozilla.svg",
-    "url": "https://github.com",
-    "description": "Mozilla Docs",
-    "bookmarkGroup": "Web UI"
+    "siteName": "WhatsApp",
+    "icon": "./WhatsApp.svg",
+    "url": "https://web.whatsapp.com/",
+    "description": "Message the world",
+    "bookmarkGroup": "Apps"
+  },
+  {
+    "siteName": "SteamDB",
+    "icon": "./Steam.svg",
+    "url": "https://www.youtube.com",
+    "description": "Steam info",
+    "bookmarkGroup": "Apps"
   },
   {
     "siteName": "YouTube",
@@ -119,117 +132,11 @@
     "bookmarkGroup": "Entertainment"
   },
   {
-    "siteName": "Kodi",
-    "icon": "./Kodi.svg",
-    "url": "https://www.youtube.com",
-    "description": "TV Shows",
-    "bookmarkGroup": "Entertainment"
-  },
-  
-  {
-    "siteName": "MDN 1",
-    "icon": "./Mozilla.svg",
-    "url": "https://github.com",
-    "description": "Mozilla Docs",
-    "bookmarkGroup": "Work"
-  },
-  {
-    "siteName": "MDN 2",
-    "icon": "./Mozilla.svg",
-    "url": "https://github.com",
-    "description": "Mozilla Docs",
-    "bookmarkGroup": "Work"
-  },
-  {
-    "siteName": "MDN 3",
-    "icon": "./Mozilla.svg",
-    "url": "https://github.com",
-    "description": "Mozilla Docs",
-    "bookmarkGroup": "Work"
-  },
-  {
-    "siteName": "MDN 4",
-    "icon": "./Mozilla.svg",
-    "url": "https://github.com",
-    "description": "Mozilla Docs",
-    "bookmarkGroup": "Work"
-  },
-  {
-    "siteName": "MDN 5",
-    "icon": "./Mozilla.svg",
-    "url": "https://github.com",
-    "description": "Mozilla Docs",
-    "bookmarkGroup": "Work"
-  },
-  {
-    "siteName": "Gmail",
-    "icon": "./Gmail.svg",
-    "url": "https://www.gmail.com",
-    "description": "Email",
-    "bookmarkGroup": "Messaging"
-  },
-  {
-    "siteName": "Messenger",
-    "icon": "./Messenger.svg",
-    "url": "https://www.gmail.com",
-    "description": "Email",
-    "bookmarkGroup": "Messaging"
-  },
-  {
-    "siteName": "Snapchat",
-    "icon": "./Snapchat.svg",
-    "url": "https://web.snapchat.com",
-    "description": "Snap to the chat",
-    "bookmarkGroup": "Messaging"
-  },
-  {
-    "siteName": "Discord",
-    "icon": "./Discord.svg",
-    "url": "https://www.gmail.com",
-    "description": "Gamer chat",
-    "bookmarkGroup": "Messaging"
-  },
-  {
-    "siteName": "WhatsApp",
-    "icon": "./WhatsApp.svg",
-    "url": "https://www.gmail.com",
-    "description": "Message the world",
-    "bookmarkGroup": "Messaging"
-  },
-  {
-    "siteName": "SteamDB",
-    "icon": "./Steam.svg",
-    "url": "https://www.youtube.com",
-    "description": "Steam info",
-    "bookmarkGroup": "Gaming"
-  }, 
-  {
     "siteName": "Xbox Cloud",
     "icon": "./Xbox.svg",
-    "url": "https://www.youtube.com",
+    "url": "https://www.xbox.com/en-US/play",
     "description": "Stream Xbox games",
-    "bookmarkGroup": "Gaming"
-  },
-  {
-    "siteName": "RetroArch",
-    "icon": "./Retroarch.svg",
-    "url": "https://www.youtube.com",
-    "description": "Steam info",
-    "bookmarkGroup": "Gaming"
-  },
-  {
-    "siteName": "Game",
-    "icon": "./Steam.svg",
-    "url": "https://www.youtube.com",
-    "description": "Steam info",
-    "bookmarkGroup": "Gaming"
-  },
-  {
-    "siteName": "Game 2",
-    "icon": "./Steam.svg",
-    "url": "https://www.youtube.com",
-    "description": "Steam info",
-    "bookmarkGroup": "Gaming"
+    "bookmarkGroup": "Entertainment"
   },
   {
     "siteName": "Spotify",
@@ -244,40 +151,5 @@
     "url": "https://github.com",
     "description": "Endless video",
     "bookmarkGroup": "Entertainment"
-  },
-  {
-    "siteName": "Fun Link",
-    "icon": "./Spotify.svg",
-    "url": "https://github.com",
-    "description": "localhost",
-    "bookmarkGroup": "Fun"
-  },
-  {
-    "siteName": "Fun Link 2",
-    "icon": "./Spotify.svg",
-    "url": "https://github.com",
-    "description": "localhost",
-    "bookmarkGroup": "Fun"
-  },
-  {
-    "siteName": "Fun Link 3",
-    "icon": "./Spotify.svg",
-    "url": "https://github.com",
-    "description": "localhost",
-    "bookmarkGroup": "Fun"
-  },
-  {
-    "siteName": "Fun Link 4",
-    "icon": "./Spotify.svg",
-    "url": "https://github.com",
-    "description": "localhost",
-    "bookmarkGroup": "Fun"
-  },
-  {
-    "siteName": "Fun Link 5",
-    "icon": "./Spotify.svg",
-    "url": "https://github.com",
-    "description": "localhost",
-    "bookmarkGroup": "Fun"
   }
 ]
